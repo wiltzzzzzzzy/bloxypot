@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="https://bloxypot.com/logo-small.png" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+
+    <title>BloxyPot | Premier In-Game Item Site!</title>
+
+    <!-- DESCRIPTION -->
+    <meta
+      name="description"
+      content="Play a Variety of Exciting Games and Win In-Game Items!"
+    />
+    <meta
+      itemprop="description"
+      content="Play a Variety of Exciting Games and Win In-Game Items!"
+    />
+
+    <!-- KEYWORDS -->
+    <meta
+      name="keywords"
+      content="BloxyPot, Bubble Gum Simulator INFINITY, BGSI, Trading, Values, Arcade, Coinflip, Jackpot, Site, 1v1, Free, Items, Pets, Shiny, Mythic"
+    />
+
+    <!-- ✅ DISCORD EMBED COLOR -->
+    <meta name="theme-color" content="#6c63ff" />
+
+    <!-- ✅ SOCIAL MEDIA / DISCORD DISPLAY (resimsiz) -->
+    <meta property="og:title" content="BloxyPot.com | Upcoming In-Game Item Site!" />
+    <meta
+      property="og:description"
+      content="Play a Variety of Exciting Games and Win In-Game Items!"
+    />
+    <meta property="og:url" content="https://bloxypot.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- ⚠️ og:image ve twitter:image kaldırıldı, embed resmi çıkmaz -->
+
+    <!-- ✅ TWITTER CARD (resimsiz) -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="BloxyPot.com | Upcoming In-Game Item Site!" />
+    <meta
+      name="twitter:description"
+      content="Play a Variety of Exciting Games and Win In-Game Items!"
+    />
+
+    <!-- GOOGLE IMAGE FOR SEARCH SNIPPET (logo-small) -->
+    <meta itemprop="image" content="https://bloxypot.com/logo-small.png" />
+
+    <!-- ✅ GOOGLE STRUCTURED DATA (SITE + LOGO) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "BloxyPot",
+      "alternateName": "BloxyPot.com",
+      "url": "https://bloxypot.com/",
+      "logo": "https://bloxypot.com/logo-small.png",
+      "sameAs": [
+        "https://discord.gg/yourdiscord",
+        "https://twitter.com/yourtwitter",
+        "https://www.youtube.com/@yourchannel"
+      ]
+    }
+    </script>
+    <script type="module" crossorigin src="/assets/index-DHk9rya_.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CkUB0UWY.css">
+  </head>
+
+  <body>
+    <noscript>Please turn on javascript to use BloxyPot.</noscript>
+    <div id="root" style="overflow: hidden;"></div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+  </body>
+</html>
